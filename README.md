@@ -1,4 +1,4 @@
-# 🌩️ Cloud Mastery – Pawa IT Training App - new
+# 🌩️ Cloud Mastery – Pawa IT Training App - new change
 
 Welcome to the **Cloud Mastery Training App**, a hands-on project designed exclusively for the **Pawa IT Cloud Mastery 2025 Event**.
 
